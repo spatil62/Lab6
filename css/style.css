@@ -1,10 +1,9 @@
 #sidebar{
   background-color: red;
   height: 100%;
-  text-align: center;
   position: fixed;
-  width: 10%;
-  right: 0;
+  width: 20%;
+  right: 0%;
 }
 
   #sidebar-container ul li a:hover {
@@ -18,3 +17,9 @@
     color: #fff;
     text-align: center;  
   }
+
+  #sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
