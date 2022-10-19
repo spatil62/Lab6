@@ -18,6 +18,16 @@
   text-decoration: none;
 }
 
+#navbar-container {
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+#sidebar-container ul li {
+  list-style-type: none;
+}
+
 #sidebar{
   background-color: red;
   height: 100%;
