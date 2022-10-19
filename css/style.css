@@ -33,8 +33,8 @@
 #navbar-container {
   width: 100%;
   position: relative;
-
-  left: 50%;
+  right: 50%;
+ 
   text-align: center;
 }
 
