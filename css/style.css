@@ -18,6 +18,19 @@
   text-decoration: none;
 }
 
+#navbar-container ul li a {
+  display: block;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #fff;
+}
+
+#navbar-container ul li a:hover {
+  background-color: #000;
+  text-decoration: underline overline;
+}
+
+
 #navbar-container {
   width: 100%;
   position: relative;
